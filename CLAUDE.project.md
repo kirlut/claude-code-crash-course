@@ -1,0 +1,1 @@
+- Every time I ask about Google ADK, use context7 MCP to answer the question
